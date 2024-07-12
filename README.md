@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋, <br><br> I'm Tiago Teixeira</h2>
+<h2 align="left">Hi there 👋 <br><br> I'm Tiago Teixeira</h2>
 <p align="left">I'm a Frontend Developer located in Aveiro, Portugal. <br><br>I have a passion for creating beautiful and functional web applications. <br><br>Well organized person, detail-oriented and a team player, I am always looking for challenging opportunities to learn and grow. <br><br>Aside from work, I love sports, traveling and spending time with my son and girlfriend.</p><br>
 
 
